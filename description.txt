@@ -1,0 +1,5 @@
+Project Description
+- This project will take past 10 years of price, volume, and other qualitative measures to build a similarity based recommendation system for Exchange Traded Funds and Closed End Funds.
+
+Data Source
+- The data used to build this system is retreived from Quandl.
